@@ -25,18 +25,18 @@ For visualisation: Tableau and Power BI at work, Plotly for personal projects.
 ## Background
 
 - Actuarial Data Consultant - Moonloop, Dublin (present)
-- Data Analyst — SCOR, Dublin
+- Data Analyst - SCOR, Dublin
 - MSc Data Analytics - Dublin Business School
 
-Most of my professional work has been in insurance and reinsurance — translating complex actuarial models into Python, building pipelines that actually hold up in production, and working across technical and non-technical teams.
+Most of my professional work has been in insurance and reinsurance - translating complex actuarial models into Python, building pipelines that actually hold up in production, and working across technical and non-technical teams.
 
 ---
 
 ## Certifications
 
-Neural Networks and Deep Learning — DeepLearning.AI / Andrew Ng  
-Machine Learning — Coursera  
-Predictive Analytics — LinkedIn Learning
+Neural Networks and Deep Learning - DeepLearning.AI / Andrew Ng  
+Machine Learning - Coursera  
+Predictive Analytics - LinkedIn Learning
 
 ---
 
