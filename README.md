@@ -8,7 +8,7 @@ I work at Moonloop as an Actuarial Data Consultant, and before that spent a coup
 
 ## What I'm building
 
-**[DataChat](https://github.com/maroofwarsi/datachat)** — upload any CSV or Excel file and ask questions about it in plain English. No SQL, no formulas. Powered by LangChain and Groq (Llama 3.3 70B). Try it live → https://datachat-obo7e9ehezueawyv7ybazc.streamlit.app
+**[DataChat](https://github.com/maroofwarsi/datachat)** - upload any CSV or Excel file and ask questions about it in plain English. No SQL, no formulas. Powered by LangChain and Groq (Llama 3.3 70B). Try it live → https://datachat-123.streamlit.app
 
 More coming. Currently working on a CV vs Job Description analyzer.
 
